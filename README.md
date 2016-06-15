@@ -18,9 +18,10 @@ Frontend interview questions
 	**div:** block-line element
 	Used as a generic page structure element.
 	
-3. What's the difference between id (#) and class (.) selectors in CSS[^2]?
+3. What's the difference between id (#) and class (.) selectors in CSS[^2] and how would you use them?
 	
-	****
+	The id selector targets a single item given the id is unique.
+	The class selector targets every element that has the selector in it's class attribute. This is valuable for reusability.
 	
 ### JavaScript
 
